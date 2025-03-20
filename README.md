@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subham!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-🏢 Currently working as full-stack developer for [Alef Education](https://www.alefeducation.com/), Abu Dhabi, UAE<br/>
+🏢 Currently working as full-stack developer at [Alef Education](https://www.alefeducation.com/), Abu Dhabi, UAE<br/>
 🏠 Based out of Kolkata, India 🇮🇳<br/>
 
 ## 🌐 Socials:
